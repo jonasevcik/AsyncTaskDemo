@@ -1,0 +1,1 @@
+This app demonstrates simple usage of AsyncTask + its cancellation. Note that it doesn't support Activity changes (e.g. screen rotation).
